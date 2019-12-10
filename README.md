@@ -4,19 +4,19 @@
 
 Keypoint estimation for fundamental matrix estimation using 8 point algorithm
 
-<img src="2_1.png" width="400">
+<img src="2_1.png" width="600">
 
 -----------------------
 
 Keypoint estimation for fundamental matrix estimation using 7 point algorithm
 
-<img src="2_2.png" width="400">
+<img src="2_2.png" width="600">
 
 -----------------------
 
 Epipolar correspondence search on epipolar line
 
-<img src="4_1.png" width="400">
+<img src="4_1.png" width="600">
 
 -----------------------
 
